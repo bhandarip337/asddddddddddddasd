@@ -1,10 +1,7 @@
-<div align="center">
 
 [**_``Go Back``_**](../README.md)
 
 # Introduction
-
-</div>
 
 ## Defination of Software
 -------------------------
