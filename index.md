@@ -1,5 +1,3 @@
-<div align="center">
-
 !["Software Engineering"](Software-Engineering.jpeg)
 
 # **Software Engineering**
@@ -16,5 +14,3 @@
 |    6     |[**``Software Testing and Quality Assurance``**](Unit/Unit-1.md)            |
 |    7     |[**``Software Maintanance``**](Unit/Unit-1.md)                              |
 |    8     |[**``Managing Software Projects``**](Unit/Unit-1.md)                        |
-
-</div>
